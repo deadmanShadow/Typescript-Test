@@ -13,8 +13,8 @@ class User {
     }
   }
   
-  let user1 = new User("Anisul Islam", 25);
+  let user1 = new User("Raihan Shamil", 24);
   user1.display();
   
-  let user2 = new User("Rabeya Islam", 31);
+  let user2 = new User("achol", 31);
   user2.display();
